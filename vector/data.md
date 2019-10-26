@@ -6,7 +6,7 @@
 **Example**:
 ```cpp
     //creating a vector of 5 elements
-    std::vector<int> vec{10, 20, 30, 40, 50};
+    std::vector<int> vec{1, 2, 3, 4, 5};
 
     //setting the pointer to first element
     int* pos = vec.data(); 
@@ -18,4 +18,4 @@
 ```
 
 **[See Sample Code](../snippets/vector/data.cpp)**
-**[Run Code](https://rextester.com/YKPIC14518)**
+**[Run Code](https://rextester.com/CITG96949)**
